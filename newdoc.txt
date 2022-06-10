@@ -1,2 +1,0 @@
-github is use to share the file with other.
-by using github we can also store the previous stored data.for making the git folder repository we need to use git init command.also we can find status of the file by using git status
